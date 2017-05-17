@@ -1,0 +1,4 @@
+To build: open the src directory, enter the following command: javac */*.java
+To run: open the src directory, build, then enter	
+java receiver.Receiver [integer between 0-100]
+java sender.Sender [target address] [any number of filepaths]
